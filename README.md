@@ -1,3 +1,1 @@
-# rh-update
-
-initiate repo
+nothing here ;)
