@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>___</version>
-  <url>https://github.com/RaceHorology/RaceHorology/releases/download/$RELEASE_PREFIX0.0.41/RaceHorologySetup-0.0.41.msi</url>
-  <changelog>https://update.race-horology.com/versions/$($env:RELEASE_PREFIX)0.0.41.html</changelog>
+  <version>$RELEASE_PREFIX0.0.42</version>
+  <url>https://github.com/RaceHorology/RaceHorology/releases/download/$RELEASE_PREFIX0.0.42/RaceHorologySetup-0.0.42.msi</url>
+  <changelog>https://update.race-horology.com/versions/$RELEASE_PREFIX0.0.42.html</changelog>
   <mandatory>false</mandatory>
 </item>
