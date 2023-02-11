@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>\$new_version</version>
-  <url>\$new_url</url>
-  <changelog>\$new_changelog</changelog>
+  <version>pre-</version>
+  <url>https://github.com/RaceHorology/RaceHorology/releases/download/pre-/RaceHorologySetup-.msi</url>
+  <changelog>https://update.race-horology.com/versions/pre-.html</changelog>
   <mandatory>false</mandatory>
 </item>
