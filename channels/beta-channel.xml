@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>$new_version</version>
-  <url>$new_url</url>
-  <changelog>$new_changelog</changelog>
+  <version>\$new_version</version>
+  <url>\$new_url</url>
+  <changelog>\$new_changelog</changelog>
   <mandatory>false</mandatory>
 </item>
