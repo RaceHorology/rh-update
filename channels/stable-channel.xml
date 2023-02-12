@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>0.0.63</version>
-  <url>https://github.com/RaceHorology/RaceHorology/releases/download/0.0.63/RaceHorologySetup-0.0.63.msi</url>
-  <changelog>https://update.race-horology.com/versions/0.0.63.html</changelog>
-  <!-- <changelog>https://update.race-horology.com/versions/0.0.63.html</changelog> -->
+  <version>0.0.64</version>
+  <url>https://github.com/RaceHorology/RaceHorology/releases/download/0.0.64/RaceHorologySetup-0.0.64.msi</url>
+  <changelog>https://update.race-horology.com/versions/0.0.64.html</changelog>
+  <!-- <changelog>https://update.race-horology.com/versions/0.0.64.html</changelog> -->
   <mandatory>false</mandatory>
 </item>
