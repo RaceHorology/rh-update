@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>pre-0.1.7</version>
-  <url>https://github.com/RaceHorology/RaceHorology/releases/download/pre-0.1.7/RaceHorologySetup-0.1.7.msi</url>
-  <changelog>https://update.race-horology.com/versions/pre-0.1.7.html</changelog>
+  <version>0.1.9-pre</version>
+  <url>https://github.com/RaceHorology/RaceHorology/releases/download/0.1.9-pre/RaceHorologySetup-0.1.9.msi</url>
+  <changelog>https://update.race-horology.com/versions/0.1.9-pre.html</changelog>
   <mandatory>false</mandatory>
 </item>
